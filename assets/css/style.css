@@ -1,0 +1,163 @@
+header {
+    background-color: #fff;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1280px;
+    height: 100px;
+}
+
+.singUp {
+    color: #2D2D2D;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 68px;
+    height: 33px;
+    flex-shrink: 0;
+    border: none;
+}
+
+.Secondary {
+    width: 200px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #5F9CFF;
+    border: 1px solid #5F9CFF;
+    margin-left: 30px;
+}
+
+.Secondary a {
+    color: white;
+    width: 97px;
+    height: 32px;
+    opacity: 0.0010000000474974513px;
+}
+
+main {
+    background-color: #EEF2FF;
+
+}
+
+.imheader {
+    display: flex;
+    padding: 70px 0px;
+
+}
+
+.left {
+    width: 466px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.left h1 {
+    color: #2D2D2D;
+    font-family: Poppins;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 90px;
+    width: 423.789px;
+    height: 176px;
+}
+
+.left p {
+    color: #2D2D2D;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    opacity: 0.5;
+}
+
+.right img {
+    margin-left: 300px;
+
+}
+
+.prmBtn {
+    display: flex;
+}
+
+.row-logo {
+    display: flex;
+    gap: 60px;
+    margin: 80px 172px;
+
+}
+
+
+
+.primary {
+    width: 200px;
+    height: 64px;
+    border-radius: 32px;
+    background: #F268A9;
+    border: #F268A9;
+}
+
+.primary a {
+    color: #fff;
+}
+
+.Cta {
+    width: 203px;
+    height: 64px;
+    border-radius: 32px;
+    border: 1px solid var(--gray, #C4C4C4);
+    background: #EEF2FF;
+    margin-left: 30px;
+}
+
+.Cta a {
+    color: #2D2D2D;
+}
+
+
+.featureCard img {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    background: #DAF2F1;
+}
+
+.features {
+    display: flex;
+    margin: auto;
+    width: 1280px;
+    margin: 116px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.featureCard {
+    width: 230px;
+    height: 268px;
+}
+
+.featureCard h2 {
+    color: #2D2D2D;
+    font-family: Poppins;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    margin: 20px 0px;
+
+}
+
+.featureCard p {
+    text-align: center;
+}
